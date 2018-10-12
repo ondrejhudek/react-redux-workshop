@@ -1,0 +1,14 @@
+.addBtn {
+	margin-top: 15px;
+}
+
+.addModal {
+	display: flex;
+	flex-direction: column;
+}
+
+.title {
+	display: inline-block;
+	width: 60px;
+	margin-bottom: 10px;
+}
