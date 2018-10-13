@@ -2,15 +2,15 @@
 Best practice in development with React JS with Vít Jouda
 [http://slides.com/vitjouda/sqn-react-workshop](http://slides.com/vitjouda/sqn-react-workshop)
 
-# Notes @ondrejhudek
+## Notes @ondrejhudek
 
-## NPM packages
+### NPM packages
 - nodemon
 - concurrently
 - babel pluginy (babel.config.js)
 - recompose
 
-## Interestings
+### Interestings
 - Webpack / module bundler
    - tree shaking (require/import, cuts imports)
    - side effects flag
